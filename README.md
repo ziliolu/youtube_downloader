@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/ziliolu/youtube_downloader?color=#FFFFFF&style=flat-square" />
-  <img src="https://img.shields.io/badge/status-in%20progress-blue?color=#FFFFFF&style=flat-square" />
+  <img src="https://img.shields.io/badge/status-completed-blue?color=#FFFFFF&style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/ziliolu/youtube_downloader?color=#FFFFFF&style=flat-square" />
 </p>
 
