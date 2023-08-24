@@ -7,7 +7,7 @@
 </p>
 
 ## About
-This is a Python script that allows you to download YouTube videos by providing a valid YouTube link. It uses the `pytube` library to fetch the video and download it in the highest resolution available.
+This is a Python script that allows you to download YouTube videos by providing a valid YouTube link. It uses the `pytube` library to fetch the video and download it in the highest resolution available to be watched offline.
 
 ## Prerequisites
 
